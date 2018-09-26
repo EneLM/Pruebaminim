@@ -1,14 +1,11 @@
 title: Duino-Based Learning (DBL)
 author: ETSEIB & MathWorks
 
-description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: <b>Acknowledgements:</b> This work has been partially founded by the Spanish national projects MICAPEM (ref. DPI2015-69286-C3-2-R, MINECO/FEDER), DPI2017-85404-P and the donation of Mathworks UPC-I-01523.
   
 # social links
 github_username:  DuinoBasedLearning
-youtube_username: Eneko Lerma - DuinoBasedLearning
+youtube_username: DuinoBasedLearning
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
