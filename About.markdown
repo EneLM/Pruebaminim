@@ -1,3 +1,3 @@
 ## ABOUT US
 
-Fotos nuestras y nuestras descripciones.
+Fotos nuestras con nuestras descripciones y los emails.
