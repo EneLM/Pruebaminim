@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Image: prueba.png
+<img src="SupportPckg.png" alt="Ratón Encima">
 
 ### Jekyll Themes
 
