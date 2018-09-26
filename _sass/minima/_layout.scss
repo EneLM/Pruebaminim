@@ -135,8 +135,8 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit}));
-  width:         calc(35% - (#{$spacing-unit}));
+  width: -webkit-calc(35% - (#{$spacing-unit}*10));
+  width:         calc(35% - (#{$spacing-unit}*10));
 }
 
 .footer-col-2 {
