@@ -1,4 +1,4 @@
-<img src="Logo1.png" alt="Logo DBL" width="42" height="22">
+<img src="Logo1.png" alt="Logo DBL" width="100" height="50">
 Descripcion DBL
 
 ### Markdown
