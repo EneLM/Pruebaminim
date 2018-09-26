@@ -135,13 +135,13 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit}*10));
-  width:         calc(35% - (#{$spacing-unit}*10));
+  width: -webkit-calc(35% - (#{$spacing-unit}*5));
+  width:         calc(35% - (#{$spacing-unit}*5));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 4));
-  width:         calc(20% - (#{$spacing-unit} / 4));
+  width: -webkit-calc(20% - (#{$spacing-unit}/8));
+  width:         calc(20% - (#{$spacing-unit}/8));
 }
 
 .footer-col-3 {
