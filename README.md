@@ -7,7 +7,7 @@ The lab introduces the fundamentals of Control Engineering through simulation an
 A working copy of MATLAB is required. An Arduino board can be acquired at <https://www.arduino.cc>.
 
 
-### A partir de aquí puedes ver el estilo de la página.
+#### A partir de aquí puedes ver el estilo de la página.
 
 
 
