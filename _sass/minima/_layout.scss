@@ -135,13 +135,13 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2)- (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2)- (#{$spacing-unit} / 2));
+  width: -webkit-calc(35% - (#{$spacing-unit}));
+  width:         calc(35% - (#{$spacing-unit}));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2)- (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2)- (#{$spacing-unit} / 2));
+  width: -webkit-calc(20% - (#{$spacing-unit} / 4));
+  width:         calc(20% - (#{$spacing-unit} / 4));
 }
 
 .footer-col-3 {
