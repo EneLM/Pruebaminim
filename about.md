@@ -4,4 +4,4 @@ title: ABOUT US
 permalink: /about/
 ---
 
-Nuestras fotos condescripciones y emails.
+Nuestras fotos con nuestras descripciones e emails.
