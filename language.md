@@ -1,8 +1,6 @@
 ---
-layout: page
-title: language
+layout: selector
+title: EN ES CAT
 permalink: /languge/
 ---
-EN
-ES
-CAT
+
