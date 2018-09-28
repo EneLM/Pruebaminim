@@ -1,4 +1,4 @@
-[EN](README.md) | <img src="ES.png">*ES* | CAT
+[EN](README.md) | *ES* | CAT
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
