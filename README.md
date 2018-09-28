@@ -1,4 +1,4 @@
-*EN* | [ES](indexES.md) | CAT
+*EN* | <img src="esp.png" alt="Español">[ES](indexES.md) | CAT
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
