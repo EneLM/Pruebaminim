@@ -1,6 +1,6 @@
-<img src="Logo1.png" alt="Logo DBL" width="500" height="100">
-
 *EN* | [ES](indexES.md) | CAT
+
+<img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
 We believe experimentation is key in learning. Project-Based Learning is hard to implement from scratch and hence we aim to provide a starting point for any educator or learner.
 
