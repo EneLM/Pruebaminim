@@ -1,4 +1,4 @@
-*ENGLISH* | [ESPAÑOL](indexES.md) | CATALAN
+*ENGLISH* | [ESPAÑOL](indexES.md) | CATALÀ
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
