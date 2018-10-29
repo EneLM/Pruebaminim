@@ -1,4 +1,4 @@
-[EN](README.md) | *ES* | CAT
+[ENGLIS](README.md) | *ESPAÑOL* | CATALÀ
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
