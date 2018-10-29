@@ -1,5 +1,7 @@
 # Grav Language Selector Plugin
 
+git clone https://github.com/clemdesign/grav-plugin-language-selector language-selector
+
 ![Language Selector](assets/readme_1.jpg)
 
 `Language Selector` is a [Grav](http://github.com/getgrav/grav) plugin that provides native language selector with flags to switch between [Multiple Languages](http://learn.getgrav.org/content/multi-language).
