@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: fourCols
 title: ABOUT US
 permalink: /about/
 ---
